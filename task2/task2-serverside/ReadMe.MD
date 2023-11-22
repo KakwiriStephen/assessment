@@ -8,7 +8,3 @@
 ## API DOCUMENTATION
 
 https://documenter.getpostman.com/view/19992350/2s9YeBcsYt
-
-
-
-Environment variables are pushed
