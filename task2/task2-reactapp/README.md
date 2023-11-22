@@ -1,3 +1,7 @@
+
+![task2](https://github.com/KakwiriStephen/assessment/assets/97972926/2205d513-5103-42ce-815f-846a5293d937)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
