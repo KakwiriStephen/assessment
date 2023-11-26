@@ -1,3 +1,5 @@
+![Capture](https://github.com/KakwiriStephen/assessment/assets/97972926/1add0f61-2a42-4094-a0fa-d7fc17410cd7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
